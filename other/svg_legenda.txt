@@ -1,0 +1,15 @@
+<rect width="100%" height="100%" fill="white"/>
+<rect x="900" y="400" width="120" height="50" style="fill:#00ff00;"></rect>
+<rect x="900" y="450" width="120" height="50" style="fill:#ffff00;"></rect>
+<rect x="900" y="500" width="120" height="50" style="fill:#ffa500;"></rect>
+<rect x="900" y="550" width="120" height="50" style="fill:#ff0000;"></rect>
+<rect x="900" y="600" width="120" height="50" style="fill:#000000;"></rect>
+<rect x="780" y="400" width="120" height="50" style="fill:#7e7e7e;"></rect>
+<text style="white-space: pre; fill:black; font-family: Arial, sans-serif; font-size: 21.7px;" x="810" y="358">Število obsojencev</text>
+<text style="white-space: pre; fill:black; font-family: Arial, sans-serif; font-size: 21.7px;" x="804" y="382">na 1000 prebivalcev</text>
+<text style="white-space: pre; fill:black; font-family: Arial, sans-serif; font-size: 21.7px;" x="919" y="432">0.0 - 2.5</text>
+<text style="white-space: pre; fill:black; font-family: Arial, sans-serif; font-size: 21.7px;" x="919" y="482">2.5 - 5.0</text>
+<text style="white-space: pre; fill:black; font-family: Arial, sans-serif; font-size: 21.7px;" x="919" y="532">5.0 - 7.5</text>
+<text style="white-space: pre; fill:white; font-family: Arial, sans-serif; font-size: 21.7px;" x="915" y="582">7.5 - 10.0</text>
+<text style="white-space: pre; fill:white; font-family: Arial, sans-serif; font-size: 21.7px;" x="932" y="632">&gt;10.0</text>
+<text style="white-space: pre; fill:white; font-family: Arial, sans-serif; font-size: 21.7px;" x="789" y="432">Ni podatka</text>
